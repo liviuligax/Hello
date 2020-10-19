@@ -1,0 +1,5 @@
+Descriere:Am creat 3 programe, 2 in java eclipse si anume un calculator care aduna, scade, inmulteste, imparte numere; 
+	  Al doilea program in java este vorba de un magazin fast food care calculeaza cumparaturile pe care le faci, aratand fiecare
+produs cat costa, impozitul/taxele, si suma totala a tuturor produselor pe care le-ati selectat;
+	 Al treilea program este putin diferit este vorba de vechiul joc numit tetris aducandune putin aminte de acel vechi pe care il iubeam
+cu toti in copilarie;Programul este facut in mare parte in JavaScript cu putine editari si retusari pe partea de html/css;
